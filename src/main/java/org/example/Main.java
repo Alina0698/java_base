@@ -9,6 +9,7 @@ public class Main {
         double c = 1.0;
 
         //0) применить несколько арифметических операций ( + , -, * , /) над двумя примитивами типа int
+
         int sum = a + b;
         int dif = a - b;
         int mul = a * b;
@@ -40,6 +41,7 @@ public class Main {
 
         //3) прочитать про диапазоны типов данных для вещественных / чисел с плавающей точкой
         // (какие максимальные и минимальные значения есть, как их получить) и переполнение
+
         System.out.println("int max = " + Integer.MAX_VALUE);
         System.out.println("int min = " + Integer.MIN_VALUE);
 
